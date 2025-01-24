@@ -1,0 +1,13 @@
+```
+## AI Trends
+- Increased accuracy and sophistication in plagiarism detection algorithms.  AI models are becoming better at identifying paraphrasing, slight modifications, and AI-generated content.
+- Expansion of detection capabilities to encompass diverse plagiarism types, including AI-generated content and multimedia.  The focus is shifting beyond simple text matching to more nuanced forms of plagiarism.
+- Development of AI-powered tools that can provide more context and analysis beyond simple plagiarism flags. This includes identifying sources, evaluating the extent of plagiarism, and suggesting improvements to writing.
+
+
+## ZK Trends
+- Growing adoption of ZK-SNARKs and ZK-STARKs for enhanced privacy and scalability in various applications, including blockchain and data sharing.  The focus is on improving efficiency and reducing computational overhead.
+- Development of new cryptographic techniques to improve the efficiency and scalability of ZK proofs. Research is actively ongoing to make these proofs more practical for wider use cases.
+- Integration of ZK proofs with other technologies, such as AI and machine learning, for advanced privacy-preserving computation and data analysis. This is leading to innovative applications in various fields.
+
+```

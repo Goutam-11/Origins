@@ -1,0 +1,5 @@
+crewai
+langchain-google-genai #gemini model
+load_dotenv
+crewai_tools
+streamlit
